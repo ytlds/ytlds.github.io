@@ -1,0 +1,6 @@
+# jelly
+_site/
+
+# mac OS
+.DS_Store
+*/.DS_Store
