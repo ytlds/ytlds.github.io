@@ -1,5 +1,7 @@
 [原码、反码和补码](computer_system/code.md)
-[进程和线程]](computer_system/process-thread.md)
+
+[进程和线程](computer_system/process-thread.md)
+
 [大小端](computer_system/big-little-end.md)
 
 
