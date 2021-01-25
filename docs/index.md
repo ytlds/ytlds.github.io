@@ -2,7 +2,7 @@
 
 [进程和线程](computer_system/process-thread.md)
 
-[大小端](computer_system/big-little-end.md)
+[大小端](computer_system/big-little-endian.md)
 
 
 
