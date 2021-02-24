@@ -1,4 +1,4 @@
-# Pycharm 用pip命令安装第三方包出现retrying且ssl error问题汇总
+# pip命令安装第三方包出现retrying且ssl error问题汇总
 
 今天pip包时一直retrying且报ssl error的错误，我弄了一上午才好，网上有很多解决方案，但是没有pip安装失败的汇总情况，如有同错，请对比以下情况，希望能解决你的问题，也烦请对不足之处指出。
 
